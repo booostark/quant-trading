@@ -1,6 +1,6 @@
 # Quant Trading
 
-Python trading and backtesting platform.
+Python for crypto trading and backtesting platform.
 
 ## About
 - Utilizes *pandas_datareader* interface to access stock information about the S&P 500 companies from yahoo finance.
